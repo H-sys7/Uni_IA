@@ -1,0 +1,4 @@
+📁 backend/
+├── 📄 app.js (code Node.js/Express ci-dessous)
+├── 📄 package.json
+└── 📄 .env
